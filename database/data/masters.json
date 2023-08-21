@@ -1,0 +1,18 @@
+[
+  {"code": "about",         "status": 1},
+  {"code": "teaser",        "status": 1},
+  {"code": "faq",           "status": 1},
+  {"code": "eic-card",      "status": 1},
+  {"code": "eic-category",  "status": 1},
+  {"code": "eic-flow",      "status": 1},
+  {"code": "eic-gallery",   "status": 1},
+  {"code": "eic-timeline",  "status": 1},
+  {"code": "sponsor",       "status": 1},
+  {"code": "medpart",       "status": 1},
+  {"code": "support",       "status": 1},
+  {"code": "semnas-about",  "status": 1},
+  {"code": "semnas-banner", "status": 1},
+  {"code": "semnas-coming", "status": 1},
+  {"code": "semnas-gallery","status": 1},
+  {"code": "semnas-register","status": 1}
+]

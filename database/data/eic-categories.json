@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Healthcare Calibration",  
+    "description": "Healthcare calibration adalah alat kesehatan yang dapat memastikan bahwa peralatan medis memenuhi standar akurasi. Alat healthcare calibration bertujuan untuk mengukur dan menilai sifat-sifat alat, seperti tingkat akurasi dan presisi, ketepatan waktu, dan lain-lain sehingga dapat memastikan bahwa peralatan medis tersebut normal serta dapat digunakan, diandalkan dan dipercaya untuk memberikan informasi akurat dan tepat.",
+    "icon" : "bi bi-broadcast-pin",  
+    "status" : 1
+  },
+  {
+    "title": "Life Support",  
+    "description": "Life support adalah peralatan kesehatan yang dapat menunjang kehidupan manusia menjadi lebih baik dan mencegah kegagalan fungsi pada organ vital manusia, contohnya penggunaan ABD, kursi roda, medicine reminder dan lain-lain. ada dalam rangka meningkatkan kesejahteraan masyarakat menuju bangsa yang lebih baik, khususnya pada bidang kesehatan.",
+    "icon" : "fa fa-stethoscope",  
+    "status" : 1
+  },
+  {
+    "title": "IT Healthcare",  
+    "description": "IT Healthcare adalah inovasi dalam teknologi kesehatan menggunakan sistem IT atau IoT sebagai proses memperbaiki penggunaan pelayanan kesehatan dan meningkatkan kualitas dan efisiensi pelayanan kesehatan. Inovasi dalam teknologi kesehatan dapat berupa teknologi baru, sistem baru, proses baru, atau model pelayanan baru.",
+    "icon" : "fa fa-heartbeat",  
+    "status" : 1
+  }
+]
